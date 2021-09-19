@@ -6,23 +6,36 @@ The main goal of this scripts include new challenge as different perspective on 
 
 Thanks to that, this study brings the first insight on detection of concept drift in metabolite data. Although the results in determining drift are not unambiguous, and the further analysis is needed on larger datasets, the concept of drift detection has been confirmed. The metabolite data are affected by the concept drift like in financial credit applications. Thanks to that, the innovated adaptivity approach for the prediction should be used with caution. The study brings the first insight to detection the concept drift in metabolomic dataset, the detection drift in two different metabolite experiments, and evaluation of use on available datasets. The study opens new paths for next steps in using the correction algorithm connected with the concept drift analysis in metabolomic prediction.
 
-
 The metabolomic data used in this study for concept drift detection analysis is taken from [30], see Datasets file.
 
-REFERENCES
+REFERENCES:
+
 [1]	WEBB, Geoffrey I., et al. Characterizing concept drift. Data Mining and Knowledge Discovery, 2016, 30.4: 964-994.
+
 [2]	LU, Jie, et al. Learning under concept drift: A review. IEEE Transactions on Knowledge and Data Engineering, 2018, 31.12: 2346-2363.
+
 [3]	GAMA, João, et al. Concept drift in decision-tree learning for data streams. In: Proceedings of the Fourth European Symposium on Intelligent Technologies and their implementation on Smart Adaptive Systems, Aachen, Germany, Verlag Mainz. 2004. p. 218-225.
+
 [4]	MONTEMAYOR, Daniel; SHARMA, Kumar. mGWAS: next generation genetic prediction in kidney disease. Nature Reviews Nephrology, 2020, 16.5: 255-256.
+
 [5]	MOATS, Rex A., et al. Abnormal cerebral metabolite concentrations in patients with probable Alzheimer disease. Magnetic resonance in medicine, 1994, 32.1: 110-115.
+
 [6]	WANG, Thomas J., et al. Metabolite profiles and the risk of developing diabetes. Nature medicine, 2011, 17.4: 448-453.
+
 [7]	COSTA, Albert França Josuá; ALBUQUERQUE, Régis Ant&nio Saraiva; DOS SANTOS, Eulanda Miranda. A drift detection method based on active learning. In: 2018 International Joint Conference on Neural Networks (IJCNN).IEEE,2018.p.1-8.
+
 [8]	GAMA, Joao, et al. Learning with drift detection. In: Brazilian symposium on artificial intelligence. Springer, Berlin, Heidelberg, 2004. p. 286-295.
+
 [9]	BAENA-GARCIA, Manuel, et al. Early drift detection method. In: Fourth international workshop on knowledge discovery from data streams. 2006. p. 77-86.
+
 [10]	Kyosuke Nishida and Koichiro Yamauchi. “Detecting Concept Drift Using Statistical Testing”. In: Discovery Science. Ed. by Vincent Corruble, Masayuki Takeda, and Einoshin Suzuki. Berlin, Heidelberg: Springer Berlin Heidelberg, 2007, pp. 264–269. isbn: 978-3-540-75488-6.
+
 [11]	Danilo Rafael de Lima Cabral and Roberto Souto Maior de Barros. “EMZD: Equal Means Z-Test Concept Drift Detector”. In: 2020 IEEE Symposium Series on Computational Intelligence (SSCI). 2020, pp. 1037–1044.
+
 [12]	S. W. Roberts. “Control Chart Tests Based on Geometric Moving Averages.” In: Technometrics 42.1 (2000), p. 97. issn: 00401706.
+
 [13]	Roberto S.M. Barros et al. “RDDM: Reactive drift detection method”. In: Expert Systems with Applications 90 (2017), pp. 344–355. issn: 0957-4174.
+
 [14]	Isvani Fr´ıas-Blanco et al. “Online and Non-Parametric Drift Detection Methods Based on Hoeffding’s Bounds”. In: IEEE Transactions on Knowledge and Data Engineering 27.3 (2015), pp. 810–823.
 [15]	Silas G.T.C. Santos, Roberto S.M. Barros, and Paulo M. Gon¸calves. “A differential evolution based method for tuning concept drift detectors in data streams”. In: Information Sciences 485 (2019), pp. 376–393. issn: 0020-0255
 [16]	Silas G.T.C. Santos, Roberto S.M. Barros, and Paulo Mauricio Gon¸calves J´unior. “Optimizing the Parameters of Drift Detection Methods Using a Genetic Algorithm”. In: 2015 IEEE 27th International Conference on Tools with Artificial Intelligence (ICTAI). 2015, pp. 1077–1084.
