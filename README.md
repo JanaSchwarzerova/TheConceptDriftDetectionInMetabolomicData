@@ -1,4 +1,4 @@
-# TheConceptDriftDetectionInMetabolomicData
+# The Concept Drift Detection In Metabolomic Data
 
 The prediction models with large potential in the future are based on biomedical data, especially model-based approach of prediction from metabolite datasets. These models will lead to early disease detection that will be useful for a milder course of the disease and less financial cost to treatment. Moreover, the current scientist challenges the move toward analysis and insight of phenotype-genotype relationship. This understanding leads over the examination and prediction of metabolites changes. The corrected tools for the creation of prediction models have to include the self-healing algorithm preventing the unwanted effects such as concept drift.
 
